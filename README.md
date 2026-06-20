@@ -1,4 +1,4 @@
-# Youtube-Tutorial-YOLO-Object-Detection
+# Ultralytics-YOLO-Object-Detection
 
 # 🐶 YOLOv11 Dog Breed Detection using Roboflow Dataset
 
